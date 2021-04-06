@@ -1,0 +1,7 @@
+D:\aProgramin\Masha's C#\GitHub\с числа в строку\bin\Debug\с числа в строку.exe.config
+D:\aProgramin\Masha's C#\GitHub\с числа в строку\bin\Debug\с числа в строку.exe
+D:\aProgramin\Masha's C#\GitHub\с числа в строку\bin\Debug\с числа в строку.pdb
+D:\aProgramin\Masha's C#\GitHub\с числа в строку\obj\Debug\с числа в строку.csprojAssemblyReference.cache
+D:\aProgramin\Masha's C#\GitHub\с числа в строку\obj\Debug\с числа в строку.csproj.CoreCompileInputs.cache
+D:\aProgramin\Masha's C#\GitHub\с числа в строку\obj\Debug\с числа в строку.exe
+D:\aProgramin\Masha's C#\GitHub\с числа в строку\obj\Debug\с числа в строку.pdb
